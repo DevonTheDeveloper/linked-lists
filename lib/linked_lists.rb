@@ -2,6 +2,9 @@
 
 # This is the linked list data structure
 class LinkedList
+  
+  def initialize; end
+  
   def append(value); end
 
   def prepend(value); end
